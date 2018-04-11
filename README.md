@@ -8,7 +8,9 @@
 * Einrichtung GIT
 
 # Erledigt am 11.04.2018
-- Installation VM
-- Installation CMDER
-- Installation Visual Studio CODE
-- Installation Python
++ Installation VM
++ Installation CMDER
++ Installation Visual Studio CODE
++ Installation Python
+
+Raspberry Pi erhalten
